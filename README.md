@@ -130,9 +130,3 @@ These assumptions make the model simple and interpretable, while also highlighti
 * Matplotlib
 * Seaborn
 * yfinance
-
----
-
-## Project Motivation
-
-This project was developed to learn and apply statistical concepts through a practical real-world problem. The goal was to explore Monte Carlo methods, statistical modeling, uncertainty quantification, and model evaluation using real financial data.
